@@ -2,7 +2,7 @@
   "name": "dashboardreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mouawiashride.github.io/dashboardreact",
+  "homepage": "https://mouawiashride.github.io/dashboardreact",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
