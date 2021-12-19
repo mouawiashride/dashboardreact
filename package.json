@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mouawiashride.github.io/Dashboard-React-",
+  "homepage": "https://mouawiashride.github.io/Dashboard-React",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "Dashboard-React- -d build"
+  "deploy": "Dashboard-React -d build"
   },
   "eslintConfig": {
     "extends": [
